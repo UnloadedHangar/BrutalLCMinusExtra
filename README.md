@@ -1,4 +1,4 @@
-# Brutal Company Minus
+# Brutal Company Minus Extra
 ![Screenshot](https://i.imgur.com/jS0vFm2.jpg)
 #### This mod is required on all clients
 #### Makes the game harder, download this mod if you want to suffer occasionally
@@ -6,6 +6,8 @@
 #### Mod is highly configurable
 #### Comes with modded events that only appear with said mods installed
 #### Functions as API, no documentation yet.
+
+#### Moddified version with more events and mod integrations and more to come!
 
 # Features
 <details>
