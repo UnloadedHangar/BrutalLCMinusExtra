@@ -250,7 +250,7 @@
   <summary><b>Modded Event List</b></summary>
   
   - These events will only appear with said mods installed
-  - Currently supported mods are Lethalthings, Diversity, Scopophobia, HerobrineMod, SirenHead, RollingGiant, TheFiend, Lockers, TheGiantSpecimens, Football, Mimics, LCGoldScrapMod, Toilhead, Moonswept, ShockwaveDrones, FacelessStalker, EmergencyDice and Peepers
+  - Currently supported mods are Lethalthings, Diversity, Scopophobia, HerobrineMod, SirenHead, RollingGiant, TheFiend, Lockers, TheGiantSpecimens, Football, Mimics, LCGoldScrapMod, Toilhead, Moonswept, ShockwaveDrones, FacelessStalker, EmergencyDice, Peepers, TakeyPlush, Malfunctions(Not yet), Hallucinocepts(Not yet)...
   
   <details>
     <summary><b>Very Good</b></summary>
@@ -266,6 +266,7 @@
 | Name | Description |
 |-|-|
 | Dice | Only spawns various dice |
+| TakeyPlush | Spawns quite a lot TakeyPlushies(Spawn rate may vary from moon to moon) |
   </details>
 
   <details>
@@ -281,6 +282,7 @@
 | No ShyGuy | Prevents the shy guy from appearing |
 | No Peepers | Prevents the peepers from appearing | 
 | No Mimics | Prevents mimics from spawning |
+| No MantiToils | Prevents mantitoils from spawning |
   </details>
 
   <details>
@@ -323,6 +325,8 @@
 | GiantShowdown | Will spawn the redwood giant and giants outside |
 | Bad Dice | Only spawns bad dice |
 | SlenderMan | Spawns slender man |
+| MantiToils | Spawns lot of MantiToils outside |
+| Sealed | Spawns more Hydraulic doors in interiors that allow it |
     
   </details>
   
