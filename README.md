@@ -250,7 +250,7 @@
   <summary><b>Modded Event List</b></summary>
   
   - These events will only appear with said mods installed
-  - Currently supported mods are Lethalthings, Diversity, Scopophobia, HerobrineMod, SirenHead, RollingGiant, TheFiend, Lockers, TheGiantSpecimens, Football, Mimics, LCGoldScrapMod, Toilhead, Moonswept, ShockwaveDrones, FacelessStalker, EmergencyDice, Peepers, TakeyPlush, Malfunctions(Not yet), Hallucinocepts(Not yet), MonsterPlushies(Incompatible), BlahajPlush(No...Just NO), ZombiesPlush(The same thing as before)...
+  - Currently supported mods are Lethalthings, Diversity, Scopophobia, HerobrineMod, SirenHead, RollingGiant, TheFiend, Lockers, TheGiantSpecimens, Football, Mimics, LCGoldScrapMod, Toilhead, Moonswept, ShockwaveDrones, FacelessStalker, EmergencyDice, Peepers, TakeyPlush, MonsterPlushies(Incompatible), BlahajPlush(No...Just NO), Malfunctions(Temporarily Halted), Hallucinocepts-(Halted), TakeyGoku-(Halted), MantiToils-(Done), Donuts-(Planned), Forest giants-(Planned), ZombiesPlush-(Incompatible) integration rerouted to MaskedZombies
   
   <details>
     <summary><b>Very Good</b></summary>
