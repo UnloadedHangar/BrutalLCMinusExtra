@@ -1,5 +1,7 @@
 # Brutal Company Minus Extra
 ![Screenshot](https://i.imgur.com/jS0vFm2.jpg)
+## As of 20.4.2024 this repository is in read-only mode and will not be updated anymore
+## Altrough the mod will still be updated on Thunderstore, you can get the latest version here: https://thunderstore.io/c/lethal-company/p/UnloadedHangar/Brutal_Company_Minus_Extra/
 #### This mod is required on all clients
 #### Makes the game harder, download this mod if you want to suffer occasionally
 #### Config is fully generated when you load on a moon.
